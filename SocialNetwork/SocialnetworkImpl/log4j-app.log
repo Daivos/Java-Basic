@@ -1,0 +1,150 @@
+2017-11-23 16:00:20 INFO  MySocialNetwork:96 - Returns ordered list of friends
+2017-11-23 16:00:20 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:20 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:20 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:20 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:96 - Returns ordered list of friends
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:70 - Looking for a frined
+2017-11-23 16:00:21 INFO  MySocialNetwork:26 - Fiend parameters was null, so friend was not added
+2017-11-23 16:00:21 INFO  MySocialNetwork:39 - Parameter City  was null, so friend was not found
+2017-11-23 16:00:21 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:49 - Find friend by City
+2017-11-23 16:00:21 INFO  MySocialNetwork:49 - Find friend by City
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:00:21 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:96 - Returns ordered list of friends
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:96 - Returns ordered list of friends
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:70 - Looking for a frined
+2017-11-23 16:07:00 INFO  MySocialNetwork:26 - Fiend parameters was null, so friend was not added
+2017-11-23 16:07:00 WARN  MySocialNetwork:39 - Parameter - city was null
+2017-11-23 16:07:00 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:49 - Find friend by City
+2017-11-23 16:07:00 INFO  MySocialNetwork:49 - Find friend by City
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:07:00 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:04 INFO  MySocialNetwork:96 - Returns ordered list of friends
+2017-11-23 16:12:04 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:04 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:04 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:04 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:96 - Returns ordered list of friends
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:70 - Looking for a frined
+2017-11-23 16:12:05 INFO  MySocialNetwork:26 - Fiend parameters was null, so friend was not added
+2017-11-23 16:12:05 WARN  MySocialNetwork:39 - Parameter - city was null
+2017-11-23 16:12:05 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:82 - Returns number of friends
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:49 - Find friend by City
+2017-11-23 16:12:05 INFO  MySocialNetwork:49 - Find friend by City
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:12:05 INFO  MySocialNetwork:31 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:139 - Returns ordered list of friends
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:139 - Returns ordered list of friends
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:101 - Looking for a frined
+2017-11-23 16:58:15 INFO  MySocialNetwork:40 - Fiend parameters was null, so friend was not added
+2017-11-23 16:58:15 WARN  MySocialNetwork:61 - Parameter - city was null
+2017-11-23 16:58:15 INFO  MySocialNetwork:119 - Returns number of friends
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:119 - Returns number of friends
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:119 - Returns number of friends
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:71 - Find friend by City
+2017-11-23 16:58:15 INFO  MySocialNetwork:71 - Find friend by City
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 16:58:15 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:139 - Returns ordered list of friends
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:139 - Returns ordered list of friends
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:101 - Looking for a frined
+2017-11-23 18:31:34 INFO  MySocialNetwork:40 - Fiend parameters was null, so friend was not added
+2017-11-23 18:31:34 WARN  MySocialNetwork:61 - Parameter - city was null
+2017-11-23 18:31:34 INFO  MySocialNetwork:119 - Returns number of friends
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:119 - Returns number of friends
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:119 - Returns number of friends
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:71 - Find friend by City
+2017-11-23 18:31:34 INFO  MySocialNetwork:71 - Find friend by City
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
+2017-11-23 18:31:34 INFO  MySocialNetwork:45 - New friend was added
